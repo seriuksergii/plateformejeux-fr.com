@@ -1952,13 +1952,22 @@ footer::before {
         padding: 70px 0;
     }
     
-    .footer-logo {
+    .logo {
+        font-size: 1.1rem;
+        gap: 6px;
+    }
+    
+    .logo-icon {
         font-size: 1.3rem;
-        gap: 8px;
+    }
+    
+    .footer-logo {
+        font-size: 1.1rem;
+        gap: 6px;
     }
     
     .footer-logo i {
-        font-size: 1.6rem;
+        font-size: 1.3rem;
     }
     
     .footer-description {
